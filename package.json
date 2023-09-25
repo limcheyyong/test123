@@ -1,0 +1,23 @@
+{
+  "name": "release-sss",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limcheyyong/test123.git"
+  },
+  "author": "yong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/limcheyyong/test123/issues"
+  },
+  "homepage": "https://github.com/limcheyyong/test123#readme",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
